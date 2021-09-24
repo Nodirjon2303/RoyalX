@@ -1,0 +1,1 @@
+web: gunicorn RoyalX.wsgi --log-file -
